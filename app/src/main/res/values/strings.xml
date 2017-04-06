@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E6_1</string>
+    <string name="hello">这是第一个活动</string>
+    <string name="hello2">这是第二个活动</string>
+</resources>
